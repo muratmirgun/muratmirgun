@@ -9,7 +9,7 @@ I love **open source development** and I build things on my GitHub profile (here
 I love **Golang** and **C++**.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/MuratSs)
-- 🐦  [What do I think? (**Twitter**)](https://twitter.com/ErcanMirgun)
+- 🐦  [What do I think? (**Twitter**)](https://twitter.com/muratmirgun)
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/murat-m-ercan)
 
 Do not forget to view my open source projects below 
