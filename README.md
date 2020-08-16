@@ -1,7 +1,7 @@
-### `npx mme`
+### `armageon@kali:~$`
 
 
-Hello, this is **Murat Mirgün Ercan**
+Hello, this is **Murat Mirgün Ercan**. My nickname is: !Armageon
 
 I'm a passionate **software developer** living in **Elazığ, Turkey**.
 I **shoot a video** about **software development**. I love being part of cyber security. I like to **organize conferences and give talks**.
