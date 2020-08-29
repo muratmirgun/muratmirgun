@@ -1,4 +1,4 @@
-### `armageon@kali:~$`
+### `armageon@arch:~$`
 
 
 Hello, this is **Murat Mirgün Ercan**. My nickname is: !Armageon
