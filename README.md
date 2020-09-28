@@ -15,10 +15,6 @@
 
 - ⚡ Fun fact **I thing ,I am funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/muratmirgun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muratmirgun" height="30" width="40" /></a>
