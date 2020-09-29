@@ -26,5 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratss&layout=compact" alt="muratss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratss&show_icons=true" alt="muratss" /></p>
-
