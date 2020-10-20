@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@muratmirgunercan225](https://medium.com/@muratmirgunercan225)
 
-- 💬 Ask me about **Golang, Python , Java , Javascript**
+- 💬 Ask me about **Golang, Python , Javascript**
 
 - 📫 How to reach me **muratmirgunercan225@gmail.com**
 
