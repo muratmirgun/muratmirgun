@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
-<h3 align="center">Hello. My nickname is: !Armageon I'm a passionate software developer living in Elazığ, Turkey. I shoot a video about software development. I love being part of cyber security. I like to organize conferences and give talks. I love open source development and I build things on my GitHub profile (here). I love Golang, Python, Javascript.</h3>
+<h3 align="center">Hello. My nickname is: !Armageon I'm a passionate software developer living in Elazığ, Turkey. I shoot a video about software development. I love being part of cyber security. I like to organize conferences and give talks. I love open source development and I build things on my GitHub profile (here). I love Golang, Python, C/C++.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratss" alt="muratss" /> </p>
 
