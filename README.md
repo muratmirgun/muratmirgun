@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
-<h3 align="center">Hello. My nickname is: !Armageon I'm a passionate software developer living in Elazığ, Turkey. I shoot a video about software development. I love being part of cyber security. I like to organize conferences and give talks. I love open source development and I build things on my GitHub profile (here). I love Golang, Python, C#.</h3>
+<h3 align="center">Hello. My nickname is: !Armageon I'm a passionate software developer living in Elazığ, Turkey. I shoot a video about software development. I love being part of cyber security. I like to organize conferences and give talks. I love open source development and I build things on my GitHub profile (here). I love Golang, Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratss" alt="muratss" /> </p>
 
 - 🌱 I’m currently learning **Cyber Security and Pentesting and everything**
 
 - 📝 I regulary write articles on [https://medium.com/@muratmirgunercan225](https://medium.com/@muratmirgunercan225)
-
-- 💬 Ask me about **Golang, Python , Javascript**
 
 - 📫 How to reach me **muratmirgunercan225@gmail.com**
 
