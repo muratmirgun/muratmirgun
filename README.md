@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cyber Security and Pentesting and everything**
 
-- 📝 I regulary write articles on [https://medium.com/@muratmirgunercan225](https://medium.com/@muratmirgunercan225)
+- 📝 I regulary write articles on [https://muratmirgun.medium.com/](https://muratmirgun.medium.com/)
 
 - 📫 How to reach me **muratmirgunercan225@gmail.com**
 
@@ -15,7 +15,7 @@
 <a href="https://twitter.com/muratmirgun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muratmirgun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murat-m-ercan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="murat-m-ercan" height="30" width="40" /></a>
 <a href="https://instagram.com/murat.m.ercann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="murat.m.ercann" height="30" width="40" /></a>
-<a href="https://medium.com/@muratmirgunercan225" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@muratmirgunercan225" height="30" width="40" /></a>
+<a href="https://muratmirgun.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@muratmirgunercan225" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uclganws4qrkzzrgwmwvvfug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uclganws4qrkzzrgwmwvvfug" height="30" width="40" /></a>
 </p>
 
