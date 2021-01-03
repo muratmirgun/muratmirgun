@@ -37,6 +37,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Arduino](https://img.shields.io/badge/-Arduino-C51A4A?style=flat-square&logo=Arduino)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratss&show_icons=true&locale=en&layout=compact" alt="muratss" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratss&show_icons=true&locale=en" alt="muratss" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuratSs&show_icons=true&locale=en&&theme=radical" alt="MuratSs" /></p>
+
+![MuratSs's github stats](https://github-readme-stats.vercel.app/api?username=MuratSs&show_icons=true&theme=radical)
