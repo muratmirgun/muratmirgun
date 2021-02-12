@@ -6,11 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/muratmirgun" target="blank"><img src="https://img.shields.io/twitter/follow/muratmirgun?logo=twitter&style=for-the-badge" alt="muratmirgun" /></a> </p>
-
-- 📫 How to reach me **muratmirgunercan225@gmail.com**
-
 - 📄 Know about my experiences [https://murat.codes](https://murat.codes)
 
 <h2 align="left">Connect with me:</h2>
