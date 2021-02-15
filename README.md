@@ -2,7 +2,7 @@
 
 [![Mentor](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentor-brightgreen)](https://findmentor.network/peer/murat-mirgun-ercan)
 [![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet)](https://findmentor.network/peer/murat-mirgun-ercan)
-<h3 align="center">Hello. My nickname is: !Armageon I'm a passionate software developer living in Elazığ, Turkey. I shoot a video about software development. I love being part of DevOps. I like to organize conferences and give talks. I love open source development and I build things on my GitHub profile (here). I love Golang, Python.</h3>
+<h3 align="center">Hello. I'm a passionate software developer living in Elazığ, Turkey. I shoot a video about software development. I love being part of DevOps. I like to organize conferences and give talks. I love open source development and I build things on my GitHub profile (here). I love Golang, Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /> </p>
 
