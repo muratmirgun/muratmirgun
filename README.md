@@ -34,6 +34,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-C51A4A?style=flat-square&logo=Arduino)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuratSs&show_icons=true&locale=en&&theme=radical" alt="MuratSs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratmirgun&show_icons=true&locale=en&&theme=radical" alt="MuratSs" /></p>
 
-![MuratSs's github stats](https://github-readme-stats.vercel.app/api?username=MuratSs&show_icons=true&theme=radical)
+![MuratSs's github stats](https://github-readme-stats.vercel.app/api?username=muratmirgun&show_icons=true&theme=radical)
