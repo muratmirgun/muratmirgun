@@ -27,8 +27,7 @@
 
 
 <p align="center">
-
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratmirgun&show_icons=true&locale=en&&theme=radical" alt="MuratSs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratmirgun&layout=compact&hide=html&theme=radical" alt="muratmrgun"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=muratmirgun&show_icons=true&theme=radical"/>
 
 
