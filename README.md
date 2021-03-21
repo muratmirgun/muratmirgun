@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
 <h2 align="center" >Software Developer </h2>
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /> </p>
-
+<p align="middle"> <a href="https://twitter.com/muratmirgun" target="blank"><img src="https://img.shields.io/twitter/follow/muratmirgun?logo=twitter&style=for-the-badge" alt="muratmirgun" /></a> </p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -16,16 +16,17 @@
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
  
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="js">
-<img src="https://img.shields.io/badge/-Vim-00599C?style=flat-square&logo=vim" alt="js">
-<img src="https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=go" alt="js">
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="js">
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" alt="js">
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="js">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="js">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="js">
-<img src="https://img.shields.io/badge/-Arduino-C51A4A?style=flat-square&logo=Arduino" alt="js">
-
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
 </p>
 
