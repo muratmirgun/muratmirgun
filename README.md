@@ -2,11 +2,6 @@
 <h4 align="center" >18 y/o Software Developer </h2>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /></p>
-<div align= "center">
-<a href"https://www.codewars.com/users/muratmirgun">
-    <img align="center" align-content='center'  src="https://www.codewars.com/users/muratmirgun/badges/large">
-  </a>
-</div>
 <h3 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://instagram.com/murat.m.ercann"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
