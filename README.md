@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
 <h4 align="center" >18 y/o Software Developer </h2>
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /> </p>
 
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /></p>
+<a href"https://www.codewars.com/users/muratmirgun">
+    <img align="center" align-content='center'  src="https://www.codewars.com/users/muratmirgun/badges/large">
+  </a>
 <h3 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://instagram.com/murat.m.ercann"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -29,6 +32,7 @@
 </p>
 
 <p align="center">
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratmirgun&layout=compact&hide=html&theme=radical" alt="muratmrgun"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muratmirgun&show_icons=true&theme=radical"/>
 
