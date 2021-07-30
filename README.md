@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
 <h4 align="center" >19 y/o Software Developer </h2>
 
+<h3 > A passionate Software Engineer who is willing to learn fundamentals of Infra & Back-end Development.
+
+My experiences are including:
+- Currently having a major on Software Engineering.
+- 2 year working and proven software development experience skills.
+- Go - Python - JS.
+- Experience with third-party libraries and APIs.
+- Knowledge of modern software development, trends, and the latest technologies.
+- Experience working with remote data via REST, JSON, XML, etc.
+- Solid understanding of the API development life cycle.
+- Solid understanding of code versioning tools such as Git.
+- Experience with tools such as Asana, Trello, Notion. </h3>
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /></p>
 <h3 align="center">Connect with me:</h2>
 <p align="center">
