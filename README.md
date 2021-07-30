@@ -5,7 +5,7 @@
 
 My experiences are including:
 - Currently having a major on Software Engineering.
-- 2 year working and proven software development experience skills.
+- 2 year working and proven software development experience.
 - Go - Python - JS.
 - Experience with third-party libraries and APIs.
 - Knowledge of modern software development, trends, and the latest technologies.
