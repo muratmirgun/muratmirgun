@@ -4,7 +4,7 @@
 <h3 >Software Engineer at @VirtualMetric , Core Team Member @cubeta-co
 
 My experiences are including:
-- 2 year working and proven software development experience.
+- 5 year working and proven software development experience.
 - Go - Python - JS.
 - Experience with third-party libraries and APIs.
 - Knowledge of modern software development, trends, and the latest technologies.
