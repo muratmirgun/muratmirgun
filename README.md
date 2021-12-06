@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
 <h4 align="center" >19 y/o Software Developer </h2>
 
-<h3 >Co-founder @cubeta-co, formerly @VirtualMetric 
+<h3 >Software Engineer at @getir , formerly @VirtualMetric 
 
 My experiences are including:
 - 5 year working and proven software development experience.
