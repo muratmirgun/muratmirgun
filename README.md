@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
 <h4 align="center" > Software Engineer </h2>
 
-<h3 >Software Engineer at @getir , formerly @VirtualMetric 
+<h3 >Software Engineer , formerly @getir & @VirtualMetric 
 
 My experiences are including:
 - 5 year working and proven software development experience.
