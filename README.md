@@ -12,7 +12,7 @@ My experiences are including:
 - Solid understanding of the API development life cycle.
 - Solid understanding of code versioning tools such as Git.
 - Experience with tools such as Asana, Trello, Notion. </h3>
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratss&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /></p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=muratmirgun&label=Profile%20views&color=0e75b6&style=flat" alt="muratss" /></p>
 <h3 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://instagram.com/murat.m.ercan"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
