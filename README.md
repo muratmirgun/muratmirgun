@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murat Mirgün Ercan</h1>
-<h4 align="center" > Software Engineer </h2>
 
-<h3 >Software Engineer , formerly @getir & @VirtualMetric 
+<h3 align="center">Founding Engineer @Permify & OSS Maintainer @Supabase</h3 >
+  
 
 My experiences are including:
 - 5 year working and proven software development experience.
